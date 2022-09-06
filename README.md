@@ -1,2 +1,2 @@
 # Programming-with-Cpp
- Repository containing codes made with C++, carrying out the activities of the URI platform.
+ Repository containing codes made with C++ and others languages, carrying out the activities of the Beecrowd platform.
